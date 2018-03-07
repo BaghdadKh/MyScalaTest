@@ -1,0 +1,6 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mDemoTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mMyUtil[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- should Divide 2 numbers !!! IGNORED !!![0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- should throw ArithmiticException if attemeped to divide by 0 !!! IGNORED !!![0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- should let adults vote !!! IGNORED !!![0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- should not let minors vote !!! IGNORED !!![0m[0m
